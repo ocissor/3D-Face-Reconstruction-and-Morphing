@@ -33,7 +33,7 @@ Texture Image Transformation
 
 ![FaceMorph](https://user-images.githubusercontent.com/56219618/102590316-6268b200-4136-11eb-9df3-9be7ddefa96a.png)
 
-Depth Image Transfoemation
+Depth Image Transformation
 
 
 ![DepthMorph](https://user-images.githubusercontent.com/56219618/102590329-65fc3900-4136-11eb-97fe-1f0f8af3a950.png)
